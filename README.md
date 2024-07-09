@@ -12,10 +12,10 @@ Program ini memerlukan OBS Studio untuk berjalan dengan lancar karena memanfaatk
 
 | Kelas  | Gestur |
 | ------------- | ------------- |
-| A  | ![Gestur A](https://raw.githubusercontent.com/muflihabdurrafi/interpretasi-sibi/main/images/A.jpg | width=100)  |
-| B  | ![Gestur B](https://raw.githubusercontent.com/muflihabdurrafi/interpretasi-sibi/main/images/B.jpg | width=100)  |
-| C  | ![Gestur C](https://raw.githubusercontent.com/muflihabdurrafi/interpretasi-sibi/main/images/C.jpg | width=100)  |
-| D  | ![Gestur D](https://raw.githubusercontent.com/muflihabdurrafi/interpretasi-sibi/main/images/D.jpg | width=100)  |
+| A  | ![Gestur A](https://raw.githubusercontent.com/muflihabdurrafi/interpretasi-sibi/main/images/A.jpg | width=100)
+| B  | ![Gestur B](https://raw.githubusercontent.com/muflihabdurrafi/interpretasi-sibi/main/images/B.jpg | width=100)
+| C  | ![Gestur C](https://raw.githubusercontent.com/muflihabdurrafi/interpretasi-sibi/main/images/C.jpg | width=100)
+| D  | ![Gestur D](https://raw.githubusercontent.com/muflihabdurrafi/interpretasi-sibi/main/images/D.jpg | width=100)
 | E  | Content Cell  |
 | F  | Content Cell  |
 | G  | Content Cell  |
