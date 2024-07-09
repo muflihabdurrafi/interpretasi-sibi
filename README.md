@@ -2,7 +2,7 @@
 Penerapan pendeteksian objek menggunakan SSDlite MobileNet V3 Large pada panggilan video berbasis Windows Desktop. Project ini adalah hasil tugas akhir dari Jurusan Informatika, Universitas Jenderal Soedirman tahun 2024.
 
 ## Demo Aplikasi
-Demo penggunaan aplikasi dapat dilihat pada video <a href="">ini</a>.
+Demo penggunaan aplikasi dapat dilihat pada <a href="https://youtu.be/rg8tsOqkxQQ"> video ini</a>.
 
 ## Program Prerequisites
 Program ini memerlukan OBS Studio untuk berjalan dengan lancar karena memanfaatkan virtual camera dari OBS untuk menampilkan hasil interpretasi bahasa isyarat SIBI.
