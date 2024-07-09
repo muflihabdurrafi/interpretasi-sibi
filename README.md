@@ -1,5 +1,6 @@
 # Interpretasi SIBI
-Penerapan pendeteksian objek menggunakan SSDlite MobileNet V3 Large pada panggilan video berbasis Windows Desktop. Project ini adalah hasil tugas akhir dari Jurusan Informatika, Universitas Jenderal Soedirman tahun 2024.
+## Deskripsi
+Penerapan pendeteksian objek menggunakan SSDlite MobileNet V3 Large pada panggilan video berbasis Windows Desktop. Project ini adalah hasil tugas akhir dari Jurusan Informatika, Universitas Jenderal Soedirman tahun 2024. Model dikembangkan menggunakan PyTorch.
 
 ## Demo Aplikasi
 Demo penggunaan aplikasi dapat dilihat pada <a href="https://youtu.be/rg8tsOqkxQQ"> video ini</a>.
@@ -8,7 +9,7 @@ Demo penggunaan aplikasi dapat dilihat pada <a href="https://youtu.be/rg8tsOqkxQ
 Program ini memerlukan OBS Studio untuk berjalan dengan lancar karena memanfaatkan virtual camera dari OBS untuk menampilkan hasil interpretasi bahasa isyarat SIBI.
 
 ## Kamus Gestur Yang Dapat Digunakan
-###
+Di bawah terdapat tabel berisi kelas dan gestur yang terdaftar pada aplikasi interpretasi SIBI ini.
 
 | Kelas  | Gestur |
 | ------------- | ------------- |
@@ -42,4 +43,4 @@ Program ini memerlukan OBS Studio untuk berjalan dengan lancar karena memanfaatk
 | HAPUS  | <img src="https://raw.githubusercontent.com/muflihabdurrafi/interpretasi-sibi/main/images/HAPUS.jpg" alt="Gestur HAPUS" height="200">  |
 | BERSIHKAN  | <img src="https://raw.githubusercontent.com/muflihabdurrafi/interpretasi-sibi/main/images/BERSIHKAN.jpg" alt="Gestur BERSIHKAN" height="200">  |
 
-##
+#
