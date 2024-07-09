@@ -8,7 +8,7 @@ Project ini adalah hasil tugas akhir dari Jurusan Informatika, Universitas Jende
 Demo penggunaan aplikasi dapat dilihat pada <a href="https://youtu.be/rg8tsOqkxQQ"> video ini</a>.
 
 ## Program _Prerequisites_
-Program ini memerlukan OBS Studio untuk berjalan dengan lancar karena memanfaatkan virtual camera dari OBS untuk menampilkan hasil interpretasi bahasa isyarat SIBI.
+Program ini memerlukan <a href="https://obsproject.com/">OBS Studio</a> untuk berjalan dengan lancar karena memanfaatkan virtual camera dari OBS untuk menampilkan hasil interpretasi bahasa isyarat SIBI.
 
 ## Kamus Gestur Yang Dapat Digunakan
 Di bawah terdapat tabel berisi kelas dan gestur yang terdaftar pada aplikasi interpretasi SIBI ini.
@@ -45,4 +45,4 @@ Di bawah terdapat tabel berisi kelas dan gestur yang terdaftar pada aplikasi int
 | HAPUS  | <img src="https://raw.githubusercontent.com/muflihabdurrafi/interpretasi-sibi/main/images/HAPUS.jpg" alt="Gestur HAPUS" height="200">  |
 | BERSIHKAN  | <img src="https://raw.githubusercontent.com/muflihabdurrafi/interpretasi-sibi/main/images/BERSIHKAN.jpg" alt="Gestur BERSIHKAN" height="200">  |
 
-#
+# Terima kasih, semoga bermanfaat 🙏
