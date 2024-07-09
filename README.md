@@ -7,8 +7,8 @@ Project ini adalah hasil tugas akhir dari Jurusan Informatika, Universitas Jende
 ## Demo Aplikasi
 Demo penggunaan aplikasi dapat dilihat pada <a href="https://youtu.be/rg8tsOqkxQQ"> video ini</a>.
 
-## Program _Prerequisites_
-Program ini memerlukan <a href="https://obsproject.com/">OBS Studio</a> untuk berjalan dengan lancar karena memanfaatkan virtual camera dari OBS untuk menampilkan hasil interpretasi bahasa isyarat SIBI.
+## _Prerequisites_
+Aplikasi ini memerlukan <a href="https://obsproject.com/">OBS Studio</a> untuk berjalan dengan lancar karena memanfaatkan virtual camera dari OBS untuk menampilkan hasil interpretasi bahasa isyarat SIBI.
 
 ## Kamus Gestur Yang Dapat Digunakan
 Di bawah terdapat tabel berisi kelas dan gestur yang terdaftar pada aplikasi interpretasi SIBI ini.
