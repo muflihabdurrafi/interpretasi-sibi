@@ -4,7 +4,7 @@ Penerapan pendeteksian objek menggunakan SSDlite MobileNet V3 Large pada panggil
 ## Demo Aplikasi
 Demo penggunaan aplikasi dapat dilihat pada <a href="https://youtu.be/rg8tsOqkxQQ"> video ini</a>.
 
-## Program Prerequisites
+## Program _Prerequisites_
 Program ini memerlukan OBS Studio untuk berjalan dengan lancar karena memanfaatkan virtual camera dari OBS untuk menampilkan hasil interpretasi bahasa isyarat SIBI.
 
 ## Kamus Gestur Yang Dapat Digunakan
