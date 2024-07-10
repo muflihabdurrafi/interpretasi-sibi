@@ -19,7 +19,7 @@ Sudah diuji dan dapat digunakan pada OS Windows 10 dan 11.
 Aplikasi ini memerlukan <a href="https://obsproject.com/">OBS Studio</a> untuk berjalan dengan lancar karena memanfaatkan virtual camera dari OBS untuk menampilkan hasil interpretasi bahasa isyarat SIBI.
 
 ## Petunjuk Penggunaan Aplikasi
-1. Jalankan "Interpretasi SIBI.exe"
+1. Jalankan "Interpretasi SIBI.exe" (bila terdapat error, dapat mengunjungi <a href="#frequently-asked-questions-faq">FAQ</a>)
 2. Pilih _webcam_ yang ingin digunakan
 3. Tekan tombol "Start" untuk memulai kamera virtual
 4. Buka _platform_ panggilan video yang diinginkan (e.g. Zoom, Google Meet, dll.)
