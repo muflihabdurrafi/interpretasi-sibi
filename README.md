@@ -69,16 +69,18 @@ Di bawah terdapat tabel berisi kelas dan gestur yang terdaftar pada aplikasi int
 | BERSIHKAN  | <img src="https://raw.githubusercontent.com/muflihabdurrafi/interpretasi-sibi/main/images/BERSIHKAN.jpg" alt="Gestur BERSIHKAN" height="200" width="200">  |
 
 ## Frequently Asked Questions (FAQ)
-### 1. Aplikasi terdeteksi sebagai virus, bagaimana cara menjalankannya?
+### 1. Aplikasi terdeteksi sebagai virus, bagaimana cara menanganinya?
 <img src="https://raw.githubusercontent.com/muflihabdurrafi/interpretasi-sibi/main/images/error2.jpg" alt="Virus Detection" height="200">
-Aplikasi Interpretasi SIBI dapat salah terdeteksi sebagai virus oleh antivirus yang digunakan pada komputer. Untuk menjalankannya, atur pada software antivirus untuk memperbolehkan aplikasi untuk tetap diperbolehkan pada komputer. Contohnya seperti gambar berikut, pada notifikasi rav antivirus dapat menekan tombol "Remain Exposed."
+
+Aplikasi Interpretasi SIBI dapat salah terdeteksi sebagai virus oleh antivirus yang digunakan pada komputer. Untuk menjalankannya, atur pada software antivirus agar tetap memperbolehkan aplikasi berjalan pada komputer. Contohnya seperti gambar berikut, pada notifikasi RAV Antivirus dapat menekan tombol "Remain Exposed."
+
 <img src="https://raw.githubusercontent.com/muflihabdurrafi/interpretasi-sibi/main/images/error1.jpg" alt="Virus Detection" height="200">
 
 ### 2. Terjadi error "Unhandled exception in script" ketika memulai aplikasi. Bagaimana cara mengatasinya?
 <img src="https://raw.githubusercontent.com/muflihabdurrafi/interpretasi-sibi/main/images/error3.jpg" alt="Virus Detection" height="200">
 Error ini terjadi ketika <a href="https://obsproject.com/">OBS Studio</a> belum terinstal, silakan instal terlebih dahulu.
 
-### 3. Muncul _warning_ "Windows protected your PC" ketika memulai aplikasi. Bagaimana cara mengatasinya?
+### 3. Muncul _warning_ "Windows protected your PC" ketika memulai aplikasi. Bagaimana cara menanganinya?
 <img src="https://raw.githubusercontent.com/muflihabdurrafi/interpretasi-sibi/main/images/error4.jpg" alt="Virus Detection" height="200">
 Mirip seperti <a href="#1-aplikasi-terdeteksi-sebagai-virus-bagaimana-cara-menjalankannya">FAQ 1</a>, aplikasi terdeteksi berbahaya. Namun dapat tetap dijalankan dengan menekan tombol "More info" dan tekan "Run anyway."
 
