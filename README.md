@@ -1,5 +1,5 @@
 # Interpretasi SIBI
-Penerapan pendeteksian objek menggunakan SSDlite MobileNet V3 Large pada panggilan video berbasis Windows Desktop.
+Penerapan pendeteksian objek menggunakan <a href="https://arxiv.org/abs/1512.02325">Single Shot Multibox Detector</a> dengan _backbone_ <a href="https://arxiv.org/abs/1905.02244">MobileNet V3</a> pada panggilan video berbasis Windows Desktop.
 
 ## Deskripsi
 Project ini adalah hasil tugas akhir dari Jurusan Informatika, Universitas Jenderal Soedirman tahun 2024. Aplikasi ini dapat mendeteksi 29 kelas (26 abjad dan 3 gestur tambahan), yang dapat dilihat <a href="#kamus-gestur-yang-dapat-digunakan">di sini</a>. Khusus untuk abjad J dan Z, tidak sesuai dengan <a href="https://pmpk.kemdikbud.go.id/sibi/kosakata">referensi kamus SIBI</a> karena kedua gestur tersebut memiliki sifat dinamis. Oleh karena itu, digantikan dengan gestur pengganti. 
