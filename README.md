@@ -82,6 +82,6 @@ Error ini terjadi ketika <a href="https://obsproject.com/">OBS Studio</a> belum 
 
 ### 3. Muncul _warning_ "Windows protected your PC" ketika memulai aplikasi. Bagaimana cara menanganinya?
 <img src="https://raw.githubusercontent.com/muflihabdurrafi/interpretasi-sibi/main/images/error4.jpg" alt="Virus Detection" height="200">
-Mirip seperti <a href="#1-aplikasi-terdeteksi-sebagai-virus-bagaimana-cara-menjalankannya">FAQ 1</a>, aplikasi terdeteksi berbahaya. Namun dapat tetap dijalankan dengan menekan tombol "More info" dan tekan "Run anyway."
+Mirip seperti <a href="#1-aplikasi-terdeteksi-sebagai-virus-bagaimana-cara-menjalankannya">FAQ 1</a>, aplikasi terdeteksi sebagai perangkat lunak berbahaya. Namun, dapat tetap dijalankan dengan menekan tombol "More info" dan tekan "Run anyway."
 
 # Terima kasih, semoga bermanfaat 🙏
