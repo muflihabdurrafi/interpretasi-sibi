@@ -6,7 +6,7 @@ Project ini adalah hasil tugas akhir dari Jurusan Informatika, Universitas Jende
 
 <a href="https://pmpk.kemdikbud.go.id/sibi/SIBI/katadasar/J.webm">Gestur J</a> digantikan dengan <a href="https://pmpk.kemdikbud.go.id/sibi/SIBI/angka/01.webm">gestur 3</a>, dan <a href="https://pmpk.kemdikbud.go.id/sibi/SIBI/katadasar/Z.webm">gestur Z</a> digantikan dengan <a href="https://pmpk.kemdikbud.go.id/sibi/SIBI/angka/07.webm">gestur 7</a>, sesuai dengan angka pada SIBI. Selain itu, digunakan juga gestur tambahan yang diambil dari gestur angka. <a href="https://pmpk.kemdikbud.go.id/sibi/SIBI/angka/04.webm">Gestur 4</a> digunakan sebagai "SPASI", <a href="https://pmpk.kemdikbud.go.id/sibi/SIBI/angka/05.webm">gestur 5</a> digunakan sebagai "BERSIHKAN", dan <a href="https://pmpk.kemdikbud.go.id/sibi/SIBI/angka/08.webm">gestur 8</a> digunakan sebagai "HAPUS".
 
-## Download
+## _Download_ Aplikasi
 Aplikasi dapat di-_download_ melalui <a href="https://bit.ly/InterpretasiSIBI">link google drive ini</a>.
 
 ## Demo Aplikasi
