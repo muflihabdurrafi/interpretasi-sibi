@@ -22,7 +22,7 @@ Aplikasi ini memerlukan <a href="https://obsproject.com/">OBS Studio</a> untuk b
 1. Jalankan "Interpretasi SIBI.exe"
 2. Pilih _webcam_ yang ingin digunakan
 3. Tekan tombol "Start" untuk memulai kamera virtual
-4. Buka _platform _panggilan video yang diinginkan (e.g. Zoom, Google Meet, dll.)
+4. Buka _platform_ panggilan video yang diinginkan (e.g. Zoom, Google Meet, dll.)
 5. Ubah kamera menjadi "OBS Virtual Camera"
 6. Selamat menggunakan!
 
