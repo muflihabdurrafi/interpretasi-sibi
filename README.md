@@ -12,6 +12,9 @@ Aplikasi dapat di-_download_ melalui <a href="https://bit.ly/InterpretasiSIBI">l
 ## Demo Aplikasi
 Demo penggunaan aplikasi dapat dilihat pada <a href="https://youtu.be/rg8tsOqkxQQ"> video ini</a>.
 
+## _Compatibility_
+Sudah diuji dan dapat digunakan pada OS Windows 10 dan 11.
+
 ## _Prerequisites_
 Aplikasi ini memerlukan <a href="https://obsproject.com/">OBS Studio</a> untuk berjalan dengan lancar karena memanfaatkan virtual camera dari OBS untuk menampilkan hasil interpretasi bahasa isyarat SIBI.
 
