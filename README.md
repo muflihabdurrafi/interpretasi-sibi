@@ -4,14 +4,27 @@ Penerapan pendeteksian objek menggunakan SSDlite MobileNet V3 Large pada panggil
 ## Deskripsi
 Project ini adalah hasil tugas akhir dari Jurusan Informatika, Universitas Jenderal Soedirman tahun 2024. Aplikasi ini dapat mendeteksi 29 kelas (26 abjad dan 3 gestur tambahan). Khusus untuk abjad J dan Z, tidak sesuai dengan <a href="https://pmpk.kemdikbud.go.id/sibi/kosakata">referensi kamus SIBI</a> karena memiliki sifat dinamis. Oleh karena itu, digantikan dengan gestur pengganti. <a href="https://pmpk.kemdikbud.go.id/sibi/SIBI/katadasar/J.webm">Gestur J</a> digantikan dengan <a href="https://pmpk.kemdikbud.go.id/sibi/SIBI/angka/01.webm">gestur 3</a>, dan <a href="https://pmpk.kemdikbud.go.id/sibi/SIBI/katadasar/Z.webm">gestur Z</a> digantikan dengan <a href="https://pmpk.kemdikbud.go.id/sibi/SIBI/angka/07.webm">gestur 7</a>, sesuai dengan angka pada SIBI. Selain itu, digunakan juga gestur tambahan yang diambil dari gestur angka. <a href="https://pmpk.kemdikbud.go.id/sibi/SIBI/angka/04.webm">Gestur 4</a> digunakan sebagai "SPASI", <a href="https://pmpk.kemdikbud.go.id/sibi/SIBI/angka/05.webm">gestur 5</a> digunakan sebagai "BERSIHKAN", dan <a href="https://pmpk.kemdikbud.go.id/sibi/SIBI/angka/08.webm">gestur 8</a> digunakan sebagai "HAPUS".
 
-## Download
-Aplikasi dapat didownload melalui link <a href="https://bit.ly/InterpretasiSIBI">google drive ini</a>
-
 ## Demo Aplikasi
 Demo penggunaan aplikasi dapat dilihat pada <a href="https://youtu.be/rg8tsOqkxQQ"> video ini</a>.
 
 ## _Prerequisites_
 Aplikasi ini memerlukan <a href="https://obsproject.com/">OBS Studio</a> untuk berjalan dengan lancar karena memanfaatkan virtual camera dari OBS untuk menampilkan hasil interpretasi bahasa isyarat SIBI.
+
+## Download
+Aplikasi dapat didownload melalui <a href="https://bit.ly/InterpretasiSIBI">link google drive ini</a>.
+
+## Petunjuk Penggunaan Aplikasi
+1. Run "Interpretasi SIBI.exe"
+2. Pilih webcam yang ingin digunakan
+3. Tekan tombol "Start" untuk memulai virtual camera
+4. Buka platform panggilan video yang diinginkan (e.g. Zoom, Gmeet, dll.)
+5. Ubah kamera menjadi "OBS Virtual Camera"
+6. Selamat menggunakan!
+
+### Catatan:
+> Tekan tombol "Stop" untuk menghentikan virtual camera.
+> Tekan tombol "Refresh" untuk mengganti kamera saat virtual camera sudah berjalan.
+> Ketika program di-close, virtual camera otomatis berhenti.
 
 ## Kamus Gestur Yang Dapat Digunakan
 Di bawah terdapat tabel berisi kelas dan gestur yang terdaftar pada aplikasi interpretasi SIBI ini.
