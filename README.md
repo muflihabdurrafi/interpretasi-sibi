@@ -10,7 +10,7 @@ Project ini adalah hasil tugas akhir dari Jurusan Informatika, Universitas Jende
 Aplikasi dapat di-_download_ melalui <a href="https://bit.ly/InterpretasiSIBI">link Google Drive ini</a>.
 
 ## Demo Aplikasi
-Demo penggunaan aplikasi dapat dilihat pada <a href="https://youtu.be/rg8tsOqkxQQ"> video ini</a>.
+Demo penggunaan aplikasi dapat dilihat pada <a href="https://youtu.be/UKU_P_RCiOI"> video ini</a>.
 
 ## _Compatibility_
 Sudah diuji dan dapat digunakan pada OS Windows 10 dan 11.
